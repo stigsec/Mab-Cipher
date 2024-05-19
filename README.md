@@ -1,9 +1,9 @@
-For installation go to the releases tab
+For installation go to the releases tab \n
 
-USAGE:
-mabc e/d/fe/fd {pwd1} {pwd2} {LS} {LD} {plaintext/ciphertext/filename}
-e - encrypt
-d - decrypt
+USAGE: \n
+mabc e/d/fe/fd {pwd1} {pwd2} {LS} {LD} {plaintext/ciphertext/filename} \n
+e - encrypt \n
+d - decrypt \n
 fe - encrypt from file
 fd - decrypt from file
 pwd1 - your first password (only lowercase letters)
