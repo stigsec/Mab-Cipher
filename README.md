@@ -1,6 +1,6 @@
 For installation go to the releases tab\
 \
-Mab-Cipher Usage:\
+Mab-Cipher Usage:
            
 -e  - Encrypt\
 -d  - Decrypt\
