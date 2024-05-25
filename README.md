@@ -11,6 +11,6 @@ Mab-Cipher Usage:
 \
 mabc {-e/-d} {pwd1} {pwd2} {BL} {BD} {input_file} {output_file}\
 mabc {-s} {plaintext}\
-mabc {-ss} {salt} {plaintext}\
+mabc {-cs} {salt} {plaintext}\
 \
 BD < BL < len(pwd2)
