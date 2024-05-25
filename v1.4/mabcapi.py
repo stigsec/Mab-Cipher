@@ -12,7 +12,7 @@ class Salt(): #for -s/-ss
     def generateSalt(): #generate random salt
         salt = ''
         i = 0
-        while i != 2:
+        while i != 16:
             letter_or_digit = randint(0, 1)
             if letter_or_digit == 0:
                 chosen_letter = choice(alphabet_only_letters)
